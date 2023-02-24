@@ -1,0 +1,10 @@
+---
+pool:
+  name: 'azure pipelines'
+  vmImage: ubuntu-22.04
+
+trigger:
+  - main
+
+steps:
+  
